@@ -1,0 +1,179 @@
+{
+  "nav": {
+    "home": "Startseite",
+    "services": "Dienstleistungen",
+    "gallery": "Galerie",
+    "reviews": "Bewertungen",
+    "contact": "Kontakt"
+  },
+  "motto": "Ihre Schönheit ist unsere Leidenschaft",
+  "about": {
+    "title": "Über uns",
+    "owner": {
+      "title": "Studioinhaberin",
+      "name": "Tetiana Amons",
+      "position": "Allround-Meisterin und Studioinhaberin",
+      "intro": "Mein Name ist Tetiana Amons, ich bin Allround-Meisterin und Inhaberin des Kosmetikstudios \"Professional Beauty by Tetiana Amons\" in Deutschland. Ich arbeite seit über 14 Jahren in der Beauty-Branche und entwickle meine Fähigkeiten ständig weiter, um meinen Kunden qualitativ hochwertige Dienstleistungen und individuelle Betreuung zu bieten.",
+      "specialization": "Spezialisierung:",
+      "expertise": "Ich bin spezialisiert auf Maniküre und Pediküre und arbeite mit allen Nageltypen, sowohl in klassischen als auch in maschinellen Techniken. Darüber hinaus bin ich Expertin für Zuckerenthaarung und biete Augenbrauen-Styling, Wimpern-Lifting und -Verlängerung sowie kosmetische Behandlungen an. Derzeit arbeite ich aktiv an der Einführung von Permanent Make-up in unserem Studio.",
+      "principles": "Meine Hauptprinzipien sind Professionalität, Qualität und Kundenvertrauen. Ich verfolge stets die neuesten Trends, lerne neue Techniken und strebe danach, eine Atmosphäre zu schaffen, in der sich jeder Kunde wohlfühlt, selbstbewusst ist und mit dem Ergebnis zufrieden ist."
+    },
+    "cosmetologist": {
+      "title": "Ihre Kosmetologin",
+      "intro": "Ich begann meinen Weg in der Kosmetologie im Jahr 2014 und habe seitdem umfangreiche Erfahrungen und Kenntnisse gesammelt, um jedem Kunden zu helfen, das gewünschte Ergebnis zu erreichen.",
+      "specialization": "Spezialisierung:",
+      "items": {
+        "skinProblems": "Behandlung von Hautproblemen (Ausschläge, Pigmentierung, Alterserscheinungen)",
+        "carePrograms": "Individuelle Pflege- und Verjüngungsprogramme",
+        "massage": "Entspannungs- und Tonusmassagen",
+        "modernTechniques": "Moderne kosmetologische Techniken"
+      },
+      "development": "Ich entwickle mich ständig weiter, lerne neue Methoden, besuche Seminare und Workshops, um immer über die aktuellen Trends informiert zu sein und Ihnen das Beste bieten zu können.",
+      "commitment": "Jede Behandlung dreht sich um Sie, Ihre Schönheit und Ihr Selbstvertrauen. Vertrauen Sie einem Profi, der sich aufrichtig um Sie kümmert!"
+    }
+  },
+  "booking": {
+    "title": "Termin buchen",
+    "service": "Dienstleistung auswählen",
+    "date": "Datum auswählen",
+    "time": "Zeit auswählen",
+    "name": "Name",
+    "phone": "Telefon",
+    "email": "E-Mail",
+    "submit": "Buchen"
+  },
+  "contact": {
+    "title": "Kontakt",
+    "contactUs": "Kontaktieren Sie uns",
+    "writeUs": "Schreiben Sie uns",
+    "openingHours": "Öffnungszeiten",
+    "monday": "Montag",
+    "tuesdayToSaturday": "Dienstag - Samstag",
+    "address": "Adresse",
+    "socialMedia": "Social Media",
+    "send": "Senden",
+    "message": "Nachricht",
+    "yourMessage": "Ihre Nachricht",
+    "name": "Name",
+    "email": "E-Mail",
+    "scanQR": "Scannen Sie den QR-Code, um unsere Website auf Ihrem Mobilgerät zu öffnen"
+  },
+  "advantages": {
+    "title": "Unsere Vorteile",
+    "items": {
+      "sterilization": {
+        "title": "Sterile Instrumente",
+        "description": "Nach jedem Gebrauch durchlaufen die Instrumente 4 Sterilisationsstufen und werden in sterile Kraftpapiertüten verpackt, die vor Ihnen geöffnet werden."
+      },
+      "atmosphere": {
+        "title": "Gemütliche Atmosphäre",
+        "description": "In unserem Studio haben wir eine heimelige Atmosphäre mit bequemen Möbeln, leckeren Getränken, Keksen, dezenten Filmen und Musik geschaffen."
+      },
+      "materials": {
+        "title": "Professionelle Materialien",
+        "description": "Wir verwenden nur professionelle Werkzeuge und kaufen Materialien höchster Qualität. Zu unseren Lieferanten gehören Aeropufing, Amilak, Eva Bond, Gloss und Swarovski."
+      },
+      "quality": {
+        "title": "Qualitätsarbeit und Garantie",
+        "description": "Wir führen die Arbeit mit höchster Qualität aus und geben 4 Tage Garantie auf die Beschichtung. Wenn sich in dieser Zeit ein Stück Lack löst oder Risse auftreten, bessern wir kostenlos nach."
+      }
+    }
+  },
+  "services": {
+    "cosmetology": {
+      "title": "Kosmetologie",
+      "description": "Professionelle kosmetologische Behandlungen für Ihre Hautgesundheit",
+      "items": {
+        "skinProblems": "Hautproblembehandlung",
+        "carePrograms": "Pflegeprogramme",
+        "massage": "Gesichtsmassage",
+        "modernTechniques": "Moderne Techniken",
+        "facialCleansing": "Gesichtsreinigung",
+        "antiAge": "Anti-Aging",
+        "moisturizing": "Feuchtigkeitsbehandlung",
+        "peeling": "Peeling",
+        "masks": "Gesichtsmasken"
+      }
+    },
+    "manicure": {
+      "title": "Maniküre",
+      "description": "Professionelle Nagelpflege für schöne Hände",
+      "items": {
+        "basic": "Klassische Maniküre",
+        "shellac": "Shellac",
+        "care": "Handpflege",
+        "extension": "Nagelverlängerung",
+        "gel": "Gelnägel",
+        "repair": "Reparatur",
+        "remove": "Entfernung"
+      }
+    },
+    "pedicure": {
+      "title": "Pediküre",
+      "description": "Professionelle Fußpflege für Ihr Wohlbefinden",
+      "items": {
+        "basic": "Klassische Pediküre",
+        "shellac": "Shellac",
+        "repair": "Reparatur"
+      }
+    },
+    "design": {
+      "title": "Nageldesign",
+      "description": "Kreative Nagelkunst nach Ihren Wünschen",
+      "items": {
+        "french": "French",
+        "nailArt": "Nail Art",
+        "decoration": "Dekoration",
+        "ombre": "Ombre"
+      }
+    },
+    "sugaring": {
+      "title": "Sugaring",
+      "description": "Sanfte Haarentfernung mit Zuckerpaste",
+      "items": {
+        "chin": "Kinn",
+        "upperLip": "Oberlippe",
+        "eyebrows": "Augenbrauen",
+        "face": "Gesicht",
+        "legs": "Beine",
+        "arms": "Arme",
+        "chest": "Brust",
+        "back": "Rücken",
+        "bikini": "Bikini",
+        "brazil": "Brazil"
+      }
+    },
+    "waxing": {
+      "title": "Waxing",
+      "description": "Professionelle Haarentfernung mit Wachs",
+      "items": {
+        "chin": "Kinn",
+        "upperLip": "Oberlippe",
+        "eyebrows": "Augenbrauen",
+        "face": "Gesicht",
+        "legs": "Beine",
+        "arms": "Arme",
+        "chest": "Brust",
+        "back": "Rücken",
+        "bikini": "Bikini",
+        "brazil": "Brazil"
+      }
+    },
+    "eyebrows": {
+      "title": "Augenbrauen",
+      "description": "Professionelles Augenbrauen-Styling",
+      "items": {
+        "waxTint": "Färben",
+        "lifting": "Lifting"
+      }
+    },
+    "lashes": {
+      "title": "Wimpern",
+      "description": "Professionelle Wimpernbehandlungen",
+      "items": {
+        "lifting": "Lifting",
+        "tinting": "Färben"
+      }
+    }
+  }
+}
